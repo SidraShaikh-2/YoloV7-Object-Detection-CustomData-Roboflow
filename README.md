@@ -1,7 +1,7 @@
 # YoloV7-Object-Detection-CustomData-Roboflow
-[![Google Colab](https://img.shields.io/badge/Open%20In-Colab-%2300BFFF.svg?style=for-the-badge&logo=google-colab&logoColor=white)]([https://colab.research.google.com](https://colab.research.google.com/drive/1IrYQq84zOURbToDjxEOfl8bYYX2Mc1NY?usp=sharing)/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IrYQq84zOURbToDjxEOfl8bYYX2Mc1NY?usp=sharing)
+[![Roboflow](https://img.shields.io/badge/Powered%20by-Roboflow-blueviolet)](https://roboflow.com)  
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
