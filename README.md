@@ -7,7 +7,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-This YOLO v7 tutorial enables you to run object detection in colab and use custom data from Roboflow.
+This YOLO v7 tutorial enables you to object detection in colab and use custom data from Roboflow.
 
 ## Download Custom Data set from Robodlow  
 ![image](https://github.com/SidraShaikh-2/YoloV7-Object-Detection-CustomData-Roboflow/assets/57295469/f5b73ef5-9e3c-4c05-ba63-ec31ef83d479)
